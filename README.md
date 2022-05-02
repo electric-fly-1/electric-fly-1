@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning,deep learning and bioinformatics
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on people who in deep learning
-- 📫 How to reach me? My email address is 
+- 📫 How to reach me? My email address is electricfly@163.com
 
 <!---
 electric-fly-1/electric-fly-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
